@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+Name+is+Ayo;" />
 </div>
 
----
 
 ## 🙋‍♂️ About Me:
 
@@ -16,7 +15,6 @@
 - 🌱 I’m currently learning **Javascript**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/kunpant?tab=repositories)**.
-
 
 ---
 
