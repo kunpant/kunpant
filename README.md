@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻**.
+- 🔭 I’m currently working as a **Software Developer 💻**.
 
 - 🌱 I’m currently learning **Javascript**.
 
